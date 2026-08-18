@@ -11,16 +11,20 @@
 <h4><code>I'm really interested in vexillology, cartography, and insects for some reason, specifically wasps and hornets. I also like hip-hop. My favorite rappers are probably be BG Knocc Out and Dresta.</code></h4>
 
 <h2><code>Projects</code></h2>
-<h4><code>BSM (Basic System Maintenance)
-This script performs various maintenance tasks on a Windows machine, including system file checks and cache cleanup for multiple browsers.</code></h4>
+<h4><code><a href="https://github.com/LB-WorksTM/BSM-Basic-System-Maintenance">BSM (Basic System Maintenance)</a>
+Performs various maintenance tasks on a Windows machine, including system file checks and cache cleanup for multiple browsers.</code></h4>
   
 ![License](https://img.shields.io/badge/license-MIT-red)
 ![Version](https://img.shields.io/badge/version-2.5.2-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010-%230078D4?logo=windows)
 
-<h4><code>GrapeCheck
-GrapeCheck is a lightweight system utility designed to instantly audit your environment and verify whether your Python and Java installations are up to date or outdated. (There will be more added in future updates)</code></h4>
+<h4><code><a href="https://github.com/LB-WorksTM/GrapeCheck">GrapeCheck</a>
+A lightweight system utility designed to instantly audit your environment and verify whether your Python and Java installations are up to date or outdated. (There will be more added in future updates)</code></h4>
 
 ![License](https://img.shields.io/badge/license-MIT-red)
 ![Version](https://img.shields.io/badge/version-2.5.2-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010-%230078D4?logo=windows)
+
+<h2><code>Projects Involved</code></h2>
+<h4><code><a href="https://www.roblox.com/games/87673889485175/Silent-Shots">Silent Shots</a>
+A First Person Shooter Roblox experience</code></h4>
