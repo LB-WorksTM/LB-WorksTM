@@ -11,4 +11,5 @@
 <h4><code>I'm really interested in vexillology, cartography, and insects for some reason, specifically wasps and hornets. I also like hip-hop. My favorite rappers are probably be BG Knocc Out and Dresta.</code></h4>
 
 <h2><code>Projects</code></h2>
-<h4><code>BSM (Basic System Maintenance)</code></h4> ![Version](https://img.shields.io/badge/version-2.5.2-blue)
+<h4><code>BSM (Basic System Maintenance)
+</code></h4> ![Version](https://img.shields.io/badge/version-2.5.2-blue)
