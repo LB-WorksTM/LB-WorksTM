@@ -5,7 +5,7 @@
 </div>
 
 <pre>
-# It's your boy LB in the place
+#It's your boy LB in the place
 
 I'm just a random guy that starts working on stuff that catches my attention,
 even though I know that I'll just end up confused at the end of the day.
