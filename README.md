@@ -4,5 +4,9 @@
   <a href="https://github.com/Spu7Nix/obamify">Created with Obamify by Spu7Nix</a>
 </div>
 
-<h2>It's your boy LB in the place</h2>
-<h4>I'm just a random guy that starts working on stuff that catches my attention, even though I know that I'll just end up confused at the end of the day.</h4>
+<pre>
+# It's your boy LB in the place
+
+I'm just a random guy that starts working on stuff that catches my attention,
+even though I know that I'll just end up confused at the end of the day.
+</pre>
