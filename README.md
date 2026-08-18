@@ -12,4 +12,6 @@
 
 <h2><code>Projects</code></h2>
 <h4><code>BSM (Basic System Maintenance)
-</code></h4> ![Version](https://img.shields.io/badge/version-2.5.2-blue)
+![License](https://img.shields.io/badge/license-MIT-red)</code></h4>
+![Version](https://img.shields.io/badge/version-2.5.2-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%2010-%230078D4?logo=windows)
