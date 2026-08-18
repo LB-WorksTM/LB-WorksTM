@@ -28,3 +28,9 @@ A lightweight system utility designed to instantly audit your environment and ve
 <h2><code>Projects Involved</code></h2>
 <h4><code><a href="https://www.roblox.com/games/87673889485175/Silent-Shots">Silent Shots</a>
 A First Person Shooter Roblox experience</code></h4>
+
+<h2><code>Contact</code></h2>
+<h4><code><a href="lbworks.contact@gmail.com">lbworks.contact@gmail.com</a>
+I welcome questions, feedback, and collaboration inquiries. Feel free to reach out to me anytime. (I'm just down bad)</code></h4>
+
+<h4><code>Copyright © 2026 LB-Studio™</code></h4>
