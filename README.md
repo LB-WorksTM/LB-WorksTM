@@ -5,4 +5,10 @@
 </div>
 
 <h2><code>It's your boy LB in the place</code></h2>
-<h4><code>I'm just a random guy that starts working on stuff that catches my attention, even though I know that It's too difficult for me. I'm really interested in vexillology, cartography, and wasps for some reason.</code></h4>
+<h4><code>I'm just a random guy that starts working on stuff that catches my attention, even though I know that It's too difficult for me.</code></h4>
+
+<h2><code>Off-topic</code></h2>
+<h4><code>I'm really interested in vexillology, cartography, and insects for some reason, specifically wasps and hornets. I also like hip-hop. My favorite rappers are probably be BG Knocc Out and Dresta.</code></h4>
+
+<h2><code>Projects</code></h2>
+<h4><code>BSM (Basic System Maintenance)</code></h4> ![Version](https://img.shields.io/badge/version-2.5.2-blue)
