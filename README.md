@@ -5,4 +5,4 @@
 </div>
 
 <h2><code>It's your boy LB in the place</code></h2>
-<h4><code>I'm just a random guy that starts working on stuff that catches my attention, even though I know that It's too difficult for me.</code></h4>
+<h4><code>I'm just a random guy that starts working on stuff that catches my attention, even though I know that It's too difficult for me. I'm really interested in vexillology, cartography, and wasps for some reason.</code></h4>
